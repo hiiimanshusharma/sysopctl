@@ -1,8 +1,8 @@
 # **sysopctl**
-### - linux custom command
+- linux custom command
 
 ## Description:
-#### - sysopctl is a versatile command-line utility designed for system administrators and power users to efficiently manage and monitor various aspects of a Linux-based system. It consolidates multiple administrative tasks into a single, easy-to-use tool, providing capabilities for controlling system services, checking system health, and performing essential system maintenance tasks.
+- sysopctl is a versatile command-line utility designed for system administrators and power users to efficiently manage and monitor various aspects of a Linux-based system. It consolidates multiple administrative tasks into a single, easy-to-use tool, providing capabilities for controlling system services, checking system health, and performing essential system maintenance tasks.
 
 ## Documentation:
 #### Manual Page
